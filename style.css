@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+div {
+  float: left;
+   background-color:rgba(126, 19, 226, 25);
+   width: 25%;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  margin:auto;
+}
